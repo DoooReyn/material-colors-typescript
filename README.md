@@ -8,5 +8,5 @@
 
 ```js
 import {Colors, toCCColor} from "path/to/Colors"
-this.node.thistoCCColor(Colors.Red.A100)
+this.node.color = toCCColor(Colors.Red.A100)
 ```
